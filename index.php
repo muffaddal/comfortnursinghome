@@ -300,12 +300,11 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="footer-box address-inner">
                             <img src="images/logo.png" class="img-responsive" alt="">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                                been the.  </p>
+                            <p>Comfort Nursing Home</p>
                             <div class="address">
                                 <i class="flaticon-placeholder"></i>
-                                <p>PO Box 16122 Collins Street<br>
-                                    West Victoria 8007 Australia</p>
+                                <p>504/c, Giri Kunj/Jeevan Kunj,<br>
+                                    L.J. Road, Mumbai - 400016</p>
                             </div>
                             <div class="address">
                                 <i class="flaticon-customer-service"></i>
@@ -313,61 +312,60 @@
                             </div>
                             <div class="address">
                                 <i class="flaticon-mail"></i>
-                                <p><a href="#">bdtask@gmail.com</a> </p>
+                                <p><a href="#">mufaddal@webworkstodo.com</a> </p>
                             </div>
                         </div>
                     </div>
                     <!-- Latest News -->
-                    <div class="col-md-3 col-sm-6">
-                        <div class="footer-box">
-                            <h4 class="footer-title">Latest News</h4>
-                            <div class="post-widget">
-                                <ul>
-                                    <li>
-                                        <a href="#"><img src="images/footer-post-1.jpeg"  alt="" ></a>
-                                        <a href="#">Healthy Lifestyle Tips</a>
-                                        <span class="post-date">Oct 6, 2016</span>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/footer-post-2.jpeg"  alt="" ></a>
-                                        <a href="#">Child Care</a>
-                                        <span class="post-date">Oct 6, 2016</span>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/footer-post-3.jpeg"  alt="" ></a>
-                                        <a href="#">Daily Exersise Is Essential</a>
-                                        <span class="post-date">Oct 6, 2016</span>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+<!--                    <div class="col-md-3 col-sm-6">-->
+<!--                        <div class="footer-box">-->
+<!--                            <h4 class="footer-title">Latest News</h4>-->
+<!--                            <div class="post-widget">-->
+<!--                                <ul>-->
+<!--                                    <li>-->
+<!--                                        <a href="#"><img src="images/footer-post-1.jpeg"  alt="" ></a>-->
+<!--                                        <a href="#">Healthy Lifestyle Tips</a>-->
+<!--                                        <span class="post-date">Oct 6, 2016</span>-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        <a href="#"><img src="images/footer-post-2.jpeg"  alt="" ></a>-->
+<!--                                        <a href="#">Child Care</a>-->
+<!--                                        <span class="post-date">Oct 6, 2016</span>-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        <a href="#"><img src="images/footer-post-3.jpeg"  alt="" ></a>-->
+<!--                                        <a href="#">Daily Exersise Is Essential</a>-->
+<!--                                        <span class="post-date">Oct 6, 2016</span>-->
+<!--                                    </li>-->
+<!--                                </ul>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
                     <!-- Latest Tweet -->
-                    <div class="col-md-3 col-sm-6">
-                        <div class="footer-box">
-                            <h4 class="footer-title">Latest Tweet</h4>
-                            <div class="latest-tweet">
-                                <ul>
-                                    <li>
-                                        <p class="tweet-text">Lorem Ipsum is <a  href="#" target="_blank">@simply</a> dummy text of the printing and <a  href="#" target="_blank">typesetting</a> industry.</p>
-                                        <p class="tweet-details"><a href="#" target="_blank"><span>7 minutes ago</span></a></p>
-                                    </li>
-                                    <li>
-                                        <p class="tweet-text">Lorem Ipsum is <a  href="#" target="_blank">@simply</a> dummy text of the printing and <a  href="#" target="_blank">typesetting</a> industry.</p>
-                                        <p class="tweet-details"><a href="#" target="_blank"><span>About 4 hours ago</span></a></p>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+<!--                    <div class="col-md-3 col-sm-6">-->
+<!--                        <div class="footer-box">-->
+<!--                            <h4 class="footer-title">Latest Tweet</h4>-->
+<!--                            <div class="latest-tweet">-->
+<!--                                <ul>-->
+<!--                                    <li>-->
+<!--                                        <p class="tweet-text">Lorem Ipsum is <a  href="#" target="_blank">@simply</a> dummy text of the printing and <a  href="#" target="_blank">typesetting</a> industry.</p>-->
+<!--                                        <p class="tweet-details"><a href="#" target="_blank"><span>7 minutes ago</span></a></p>-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        <p class="tweet-text">Lorem Ipsum is <a  href="#" target="_blank">@simply</a> dummy text of the printing and <a  href="#" target="_blank">typesetting</a> industry.</p>-->
+<!--                                        <p class="tweet-details"><a href="#" target="_blank"><span>About 4 hours ago</span></a></p>-->
+<!--                                    </li>-->
+<!--                                </ul>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
                     <!-- Map -->
-                    <div class="col-md-3 col-sm-6">
-                        <div class="map">
-                            <h4 class="footer-title">Map</h4>
-                            <!-- The element that will contain our Google Map. This is used in both the Javascript and CSS above. -->
-                            <div id="map"></div>
-                        </div>
-                    </div>
+<!--                    <div class="col-md-3 col-sm-6">-->
+<!--                        <div class="map">-->
+<!--                            <h4 class="footer-title">Map</h4>-->
+<!--                            <div id="map"></div>-->
+<!--                        </div>-->
+<!--                    </div>-->
                 </div>
             </div>
         </footer>

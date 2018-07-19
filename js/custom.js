@@ -14,7 +14,7 @@ tpj(document).ready(function () {
             jsFileLocation: "../revolution/js/",
             sliderLayout: "fullwidth",
             dottedOverlay: "none",
-            delay: 4000,
+            delay: 6000,
             disableProgressBar: "on",
             navigation: {
                 keyboardNavigation: "off",
