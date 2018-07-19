@@ -11,13 +11,13 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li><a href="#slider">Home <span class="sr-only">(current)</span></a></li>
-                <li><a href="#about" class="page-scroll">About</a></li>
-                <li><a href="#service" class="page-scroll">Service</a></li>
-                <li><a href="#appointment" class="page-scroll">Appointment</a></li>
-                <li><a href="#doctor" class="page-scroll">Doctors</a></li>
+                <li><a href="#about" class="page-scroll">About Us</a></li>
+                <li><a href="#service" class="page-scroll">Our Services</a></li>
+<!--                <li><a href="#appointment" class="page-scroll">Appointment</a></li>-->
+                <li><a href="#doctor" class="page-scroll">Our Doctors</a></li>
 <!--                <li><a href="#department" class="page-scroll">Department</a></li>-->
 <!--                <li><a href="#blog" class="page-scroll">Blog</a></li>-->
-                <li><a href="#contact" class="page-scroll">Contact</a></li>
+                <li><a href="#contact" class="page-scroll">Contact Us</a></li>
             </ul>
         </div> <!-- /.navbar-collapse -->
     </div> <!--/.container -->
