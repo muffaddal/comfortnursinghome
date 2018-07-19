@@ -30,6 +30,8 @@
         <link href="revolution/css/navigation.css" rel="stylesheet" type="text/css"/>
         <!-- Custom Style Sheet -->
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
+        <!-- Gallery -->
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
     </head>
     <body id="page-top">
         <!-- Loader icon -->
@@ -183,6 +185,65 @@
                             </div>
                             <div class="service-text">
                                 <h4>Specific treatment of pre-existing diseases</h4>
+                </div>
+            </div>
+        </section>
+        <section id="gallery" class="doctor-inner">
+            <div class="container">
+                <div class="row">
+                        <div class="title-block">
+                            <h3>Gallery</h3>
+                        </div>
+                    <div class='list-group gallery'>
+                        <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                            <a class="thumbnail fancybox" rel="ligthbox" href="images/gallery/image-1.jpg">
+                                <img class="img-responsive" alt="" src="images/gallery/image-1.jpg" style="height: 300px;"/>
+                                <div class='text-right'>
+                                    <small class='text-muted'>24 Hours Nursing Care</small>
+                                </div> <!-- text-right / end -->
+                            </a>
+                        </div> <!-- col-6 / end -->
+                        <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                            <a class="thumbnail fancybox" rel="ligthbox" href="images/gallery/image-3.jpg">
+                                <img class="img-responsive" alt="" src="images/gallery/image-2.jpg" style="height: 300px;"/>
+                                <div class='text-right'>
+                                    <small class='text-muted'>24 Hours Nursing Care</small>
+                                </div> <!-- text-right / end -->
+                            </a>
+                        </div> <!-- col-6 / end -->
+                        <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                            <a class="thumbnail fancybox" rel="ligthbox" href="images/gallery/image-3.jpg">
+                                <img class="img-responsive" alt="" src="images/gallery/image-3.jpg" style="height: 300px;"/>
+                                <div class='text-right'>
+                                    <small class='text-muted'>Wound and Bed Sore Management</small>
+                                </div> <!-- text-right / end -->
+                            </a>
+                        </div> <!-- col-6 / end -->
+                        <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                            <a class="thumbnail fancybox" rel="ligthbox" href="images/gallery/image-4.jpg">
+                                <img class="img-responsive" alt="" src="images/gallery/image-4.jpg" style="height: 300px;"/>
+                                <div class='text-right'>
+                                    <small class='text-muted'>Monitoring and specific treatment of pre-existing diseases</small>
+                                </div> <!-- text-right / end -->
+                            </a>
+                        </div> <!-- col-6 / end -->
+                        <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                            <a class="thumbnail fancybox" rel="ligthbox" href="images/gallery/image-5.jpg">
+                                <img class="img-responsive" alt="" src="images/gallery/image-5.jpg" style="height: 300px;"/>
+                                <div class='text-right'>
+                                    <small class='text-muted'>Feeding assistance</small>
+                                </div> <!-- text-right / end -->
+                            </a>
+                        </div> <!-- col-6 / end -->
+                        <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                            <a class="thumbnail fancybox" rel="ligthbox" href="images/gallery/image-6.jpg">
+                                <img class="img-responsive" alt="" src="images/gallery/image-6.jpg" style="height: 300px;"/>
+                                <div class='text-right'>
+                                    <small class='text-muted'>Physiotherapy</small>
+                                </div> <!-- text-right / end -->
+                            </a>
+                        </div> <!-- col-6 / end -->
+                    </div> <!-- list-group / end -->
                 </div>
             </div>
         </section>
@@ -345,5 +406,7 @@
         <script src="js/jquery-ui.min.js" type="text/javascript"></script>
         <!-- Custom Js -->
         <script src="js/custom.js" type="text/javascript"></script>
+        <!-- Gallery Box -->
+        <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
     </body>
 </html>

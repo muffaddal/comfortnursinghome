@@ -211,5 +211,10 @@ tpj(document).ready(function () {
         });
     }
 
+    //gallery
+    $(".fancybox").fancybox({
+        openEffect: "none",
+        closeEffect: "none"
+    });
 });
 

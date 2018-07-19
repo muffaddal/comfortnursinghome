@@ -452,3 +452,9 @@ footer .footer-title {margin: 0 0 30px;font-size: 20px;}
     .owl-theme .owl-controls .owl-buttons .owl-prev {left: -30px;}
     .owl-theme .owl-controls .owl-buttons .owl-next {right: -30px;}
 }
+
+/* Gallery*/
+.gallery {
+    display: inline-block;
+    margin-top: 20px;
+}
