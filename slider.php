@@ -29,7 +29,7 @@
                              data-splitout="none"
                              data-responsive_offset="on"
                              data-elementdelay="0.05"
-                             style="z-index: 5; white-space: nowrap;">Comfort Nursing Home
+                             style="z-index: 5; white-space: nowrap;">Orthopedic and Palliative Care
                         </div>
 
                         <!-- LAYER NR. 2 -->

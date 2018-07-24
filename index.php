@@ -243,6 +243,70 @@
                                 </div> <!-- text-right / end -->
                             </a>
                         </div> <!-- col-6 / end -->
+                        <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                            <a class="thumbnail fancybox" rel="ligthbox" href="images/gallery/image-7.jpg">
+                                <img class="img-responsive" alt="" src="images/gallery/image-7.jpg" style="height: 300px;"/>
+                                <div class='text-right'>
+                                    <small class='text-muted'>Accolades</small>
+                                </div> <!-- text-right / end -->
+                            </a>
+                        </div> <!-- col-6 / end -->
+                        <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                            <a class="thumbnail fancybox" rel="ligthbox" href="images/gallery/image-8.jpg">
+                                <img class="img-responsive" alt="" src="images/gallery/image-8.jpg" style="height: 300px;"/>
+                                <div class='text-right'>
+                                    <small class='text-muted'>Accolades</small>
+                                </div> <!-- text-right / end -->
+                            </a>
+                        </div> <!-- col-6 / end -->
+                        <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                            <a class="thumbnail fancybox" rel="ligthbox" href="images/gallery/image-9.jpg">
+                                <img class="img-responsive" alt="" src="images/gallery/image-9.jpg" style="height: 300px;"/>
+                                <div class='text-right'>
+                                    <small class='text-muted'>Accolades</small>
+                                </div> <!-- text-right / end -->
+                            </a>
+                        </div> <!-- col-6 / end -->
+                        <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                            <a class="thumbnail fancybox" rel="ligthbox" href="images/gallery/image-10.jpg">
+                                <img class="img-responsive" alt="" src="images/gallery/image-10.jpg" style="height: 300px;"/>
+                                <div class='text-right'>
+                                    <small class='text-muted'>Accolades</small>
+                                </div> <!-- text-right / end -->
+                            </a>
+                        </div> <!-- col-6 / end -->
+                        <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                            <a class="thumbnail fancybox" rel="ligthbox" href="images/gallery/image-11.jpg">
+                                <img class="img-responsive" alt="" src="images/gallery/image-11.jpg" style="height: 300px;"/>
+                                <div class='text-right'>
+                                    <small class='text-muted'>Accolades</small>
+                                </div> <!-- text-right / end -->
+                            </a>
+                        </div> <!-- col-6 / end -->
+                        <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                            <a class="thumbnail fancybox" rel="ligthbox" href="images/gallery/image-12.jpg">
+                                <img class="img-responsive" alt="" src="images/gallery/image-12.jpg" style="height: 300px;"/>
+                                <div class='text-right'>
+                                    <small class='text-muted'>Accolades</small>
+                                </div> <!-- text-right / end -->
+                            </a>
+                        </div> <!-- col-6 / end -->
+                        <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                            <a class="thumbnail fancybox" rel="ligthbox" href="images/gallery/image-13.jpg">
+                                <img class="img-responsive" alt="" src="images/gallery/image-13.jpg" style="height: 300px;"/>
+                                <div class='text-right'>
+                                    <small class='text-muted'>Accolades</small>
+                                </div> <!-- text-right / end -->
+                            </a>
+                        </div> <!-- col-6 / end -->
+                        <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                            <a class="thumbnail fancybox" rel="ligthbox" href="images/gallery/baba_chowk.jpg">
+                                <img class="img-responsive" alt="" src="images/gallery/baba_chowk.jpg" style="height: 300px;"/>
+                                <div class='text-right'>
+                                    <small class='text-muted'>A junction named after Dr Ashit's father that the Municipal Commissioner honoured him posthumously for his selfless service through his surgical practice for the common people.</small>
+                                </div> <!-- text-right / end -->
+                            </a>
+                        </div> <!-- col-6 / end -->
                     </div> <!-- list-group / end -->
                 </div>
             </div>
@@ -257,13 +321,14 @@
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-6 hidden-xs hidden-sm">
-                        <img src="images/about_us_2.jpg" class="img-responsive" alt="">
+                        <img src="images/dr_ashit_b.png" class="img-responsive" alt="">
                     </div>
                     <div class="col-sm-12 col-md-6">
                         <div class="about-des">
                             <h3>Dr Ashit A Bavadekar</h3>
-                            <h5>M.B.B.S</h5>
-                            <p>Write up for Doc</p>
+                            <p>He was awarded The Yashwantrao Chavan Smriti Puraskar in 2011 for exemplary social work in the field of Orthopedic Surgery, for the benefit of the Indian rural and underprivileged. In 2010 he recieved personal felicitations from the president of india for his efforts in caring for the terminally ill.He is the winner of the prestigious`Jacques Dupark Award’ for` Deleterious Effects of Articular Cartilage Inclusion in Impaction Bone Grafting’ one of the 10 best original orthopedic research papers in Europe in 2001 and has been awarded The BIRC Lillie Fellowship for further training and research in the field of Revision Hip Arthroplasty at The University of Bristol and Bath ,UK.AN MBBS in Medicine and Surgery from University of Pune and DES (Ortho) from Belgium ,Dr. Ashit Bawadekar has been on the forefront of providing free specialised medical help for the poor and needy patients in rural india.</p>
+                            <p>He has been a visiting BIRC  Research fellow at Bath University and a Clinical Research Fellow at the University of Bristol ,UK. He has also been aClinical Resesrch fellow at The Centre of Orthopedic Biomechanics ,University of Bath ,UK, Lecturer at the BIRC Lillie Fellowship Department of Orthopedics ,University of Bristol UK,Resident in Orthopedic Surgery at the St. Luc ‘s University Hospital ,Brussels ,Belgium and Researcher at the Orthopedic Research Lab and Bone at the University Catholique de Louvain ,Brussesls .As a Resident Surgeon in India he specialised in Traumatelogy, Joint Replacement Surgery ,Orthopedic Oncology and Musculoskeletal Tuberculosis.</p>
+                            <p>He has several international scientific activities and contributions by way of Clinical Papers ,Oral presentations and Manuscript including as 1st and 2nd author on chapters in textbooks pubished in the USA, Belgium and Germany. He is the 1st author for two chapters and the 2nd author for another two chapters published in the text book impaction bone grafting, published by Marcel Dekker Inc, New York. He has presented several scientific papers and presentations at international seminars including at the Orthopedic Research Society Anual meeting in San Francisco, USA, EFORT, Anual Congress in Greece, ISOLS (International Society of Limb Salvage) in Birmingham UK, and at seminars in Thailand and Belgium.</p>
                             <hr>
                         </div>
                     </div>
