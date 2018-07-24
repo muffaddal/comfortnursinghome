@@ -365,7 +365,7 @@
                     <!-- Address -->
                     <div class="col-md-3 col-sm-6">
                         <div class="footer-box address-inner">
-                            <img src="images/logo.png" class="img-responsive" alt="">
+<!--                            <img src="images/logo.png" class="img-responsive" alt="">-->
                             <p>Comfort Nursing Home</p>
                             <div class="address">
                                 <i class="flaticon-placeholder"></i>
