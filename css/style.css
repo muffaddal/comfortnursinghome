@@ -458,3 +458,9 @@ footer .footer-title {margin: 0 0 30px;font-size: 20px;}
     display: inline-block;
     margin-top: 20px;
 }
+
+.dancing-font {
+    font-family: 'Dancing Script', cursive;
+    font-size: 44px;
+    margin-top: 3%;
+}
